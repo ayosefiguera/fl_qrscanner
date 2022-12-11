@@ -1,0 +1,1 @@
+export 'package:qrscanner/themes/app_theme.dart';
